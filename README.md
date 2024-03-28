@@ -88,7 +88,7 @@ optional arguments:
 
 To search for only one user:
 ```
-python3 sherlock user123
+python3 sherlock vadiaquerleite 
 ```
 
 To search for more than one user:
